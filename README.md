@@ -3,7 +3,7 @@
 
 [See this list of commands](https://github.com/tree-sitter/tree-sitter/blob/master/cli/README.md#commands)
 
-### In the tree-sitter-rust scripts directory run these scripts
+### In the [tree-sitter-rust](https://github.com/stormasm/tree-sitter-rust) scripts directory run these scripts
 
 * fetch-examples
 * parse-examples
