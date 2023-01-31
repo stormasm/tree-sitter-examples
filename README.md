@@ -1,4 +1,3 @@
-# tree-sitter-examples
 
 ### To generate out the parser see this list of commands
 
